@@ -108,5 +108,10 @@ class Surface
 
 };
 
+class CAD_Model
+{
+    std::vector<Solid> SolidList;
+    std::
+};
 
 #endif // B_REP_H
